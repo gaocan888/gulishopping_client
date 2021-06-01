@@ -1,0 +1,2 @@
+# gulishopping_client
+public
